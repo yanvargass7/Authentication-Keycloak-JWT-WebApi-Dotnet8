@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+jDoSVdBS7SGWRKdkUFktDOAE2vmzIOH/FV/3oye9cM=",
+  "Source": "AuthenticationKeycloak.WebApi",
+  "BasePath": "_content/AuthenticationKeycloak.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
